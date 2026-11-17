@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "pid": 1234567890,
+      "url": "https://files.catbox.moe/g7cmxu.txt",
+      "local_path": "/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.mobilegestaltcache/Library/Caches/SBX-DST-A.txt",
+      "sha1": "0222d49062acb60601ec0f6c5bb5890c45421361"
+    },
+    {
+      "pid": 1234567891,
+      "url": "https://files.catbox.moe/g7cmxu.txt",
+      "local_path": "/private/var/mobile/Media/SBX-DST-B.txt",
+      "sha1": "0222d49062acb60601ec0f6c5bb5890c45421361"
+    },
+    {
+      "pid": 1234567892,
+      "url": "https://files.catbox.moe/kxc6hi.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/3DBBBC39-F5BA-4333-B40C-6996DE48F91C/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "548bb02a894bf0df7aee6feb2d427d8035977487"
+    },
+    {
+      "pid": 1234567893,
+      "url": "file:///private/var/containers/Shared/SystemGroup/systemgroup.com.apple.mobilegestaltcache/Library/Caches/com.apple.MobileGestalt.plist",
+      "local_path": "/private/var/mobile/Media/SBX-GESTALT-DUMP.plist",
+      "sha1": null
+    }
+  ],
+  "bl": {
+    "ZDOWNLOADID": "../../../../../../private/var/mobile/Media/SBX-STAGE2-PROOF.txt",
+    "ZASSETPATH": "/private/var/mobile/Media/Books/SBX-STAGE2-ASSET.epub",
+    "ZPLISTPATH": "/var/mobile/Media/SBX-STAGE2-PLIST.plist",
+    "ZURL": "https://files.catbox.moe/0qpklg.txt"
+  }
+}

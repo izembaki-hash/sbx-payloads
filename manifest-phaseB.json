@@ -1,0 +1,80 @@
+{
+  "proof_epub_url": "https://files.catbox.moe/0jz7ns.epub",
+  "bl_url": "https://files.catbox.moe/qyijt3.sqlite",
+  "canary_url": "https://files.catbox.moe/wr67wf.txt",
+  "meta_url": "https://files.catbox.moe/377rek.plist",
+  "bl_sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317",
+  "files_to_push": {
+    "SBX-PROOF.epub": "E:\\bypass\\work\\sbx\\SBX-PROOF.epub",
+    "crafted-BLDatabaseManager.sqlite": "E:\\bypass\\work\\sbx\\crafted-BLDatabaseManager.sqlite",
+    "SBX-HTTP.txt": "E:\\bypass\\work\\sbx\\SBX-HTTP.txt",
+    "SBX-ITUNESMETA.plist": "E:\\bypass\\work\\sbx\\SBX-ITUNESMETA.plist"
+  },
+  "assets": [
+    {
+      "url": "https://files.catbox.moe/wr67wf.txt",
+      "local_path": "/private/var/mobile/Media/SBX-HTTP-A.txt",
+      "sha1": "e3390aae7f10220f342a6c40702c33b36587de08"
+    },
+    {
+      "url": "file:///var/mobile/Media/SBX-HTTP.txt",
+      "local_path": "/private/var/mobile/Media/SBX-FILE-A.txt",
+      "sha1": "e3390aae7f10220f342a6c40702c33b36587de08"
+    },
+    {
+      "url": "https://files.catbox.moe/377rek.plist",
+      "local_path": "/private/var/mobile/Media/iTunes_Control/iTunes/iTunesMetadata.plist",
+      "sha1": "5115d0a0d51605a2299181e7795547984ce306c6"
+    },
+    {
+      "url": "https://files.catbox.moe/qyijt3.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.books/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317"
+    },
+    {
+      "url": "https://files.catbox.moe/qyijt3.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.ibooks/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317"
+    },
+    {
+      "url": "https://files.catbox.moe/qyijt3.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.bookassetd/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317"
+    },
+    {
+      "url": "https://files.catbox.moe/qyijt3.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.icloud.books/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317"
+    },
+    {
+      "url": "https://files.catbox.moe/qyijt3.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/group.com.apple.iBooks/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317"
+    },
+    {
+      "url": "https://files.catbox.moe/qyijt3.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/3DBBBC39-F5BA-4333-B40C-6996DE48F91C/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317"
+    },
+    {
+      "url": "https://files.catbox.moe/qyijt3.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/0DAF9578-C293-4C5D-9CF4-21E78AE8E372/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317"
+    },
+    {
+      "url": "file:///var/mobile/Media/SBX-BL.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.books/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317"
+    },
+    {
+      "url": "file:///var/mobile/Media/SBX-BL.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.ibooks/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317"
+    },
+    {
+      "url": "file:///var/mobile/Media/SBX-BL.sqlite",
+      "local_path": "/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.bookassetd/Documents/BLDatabaseManager/BLDatabaseManager.sqlite",
+      "sha1": "a9a97cf62d1e26e8012a83d6e3dadc1da825a317"
+    }
+  ]
+}

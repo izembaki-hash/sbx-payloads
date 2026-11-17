@@ -1,0 +1,2 @@
+SBX-ASSET-CONTENT-2026-11-17T0230Z
+This file is downloaded by the device during the bl_sbx stage-2 proof test.
